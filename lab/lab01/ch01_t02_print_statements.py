@@ -1,2 +1,1 @@
 print ("statements")
-print ("good")

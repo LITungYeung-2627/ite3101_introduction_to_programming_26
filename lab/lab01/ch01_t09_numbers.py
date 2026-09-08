@@ -1,2 +1,2 @@
-price_per_cucumber = 1
-price_per_cucumber =
+cucumber = 1
+price_per_cucumber = 

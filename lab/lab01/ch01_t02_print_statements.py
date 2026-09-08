@@ -1,2 +1,2 @@
 print("statements")
-print()
+print("")

@@ -1,4 +1,4 @@
-cucumber = 1
+cucumbers = 1
 price_per_cucumber = 3.25
-total_cost = cucumber
+total_cost = cucumbers
 print(float(total_cost))

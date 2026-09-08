@@ -1,2 +1,2 @@
-print("statements")
-print("")
+print ("statements")
+print ("good")

@@ -1,5 +1,4 @@
 cucumber = 1
 price_per_cucumber= 3.25
 total_cost = cucumber
-print(total_cost)
-print(type(total_cost))
+print(float(total_cost))

@@ -1,4 +1,4 @@
 cucumber = 1
-price_per_cucumber = 3.25
+price= 3.25
 total_cost = cucumber
 print(total_cost)

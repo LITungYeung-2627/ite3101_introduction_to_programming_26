@@ -2,6 +2,6 @@
 caeser = "Graham"
 praline = "John"
 viking = "Teresa"
-print(ceaser)
+print(caeser)
 print(praline)
 print(viking)

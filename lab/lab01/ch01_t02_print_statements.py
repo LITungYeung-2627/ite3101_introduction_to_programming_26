@@ -1,1 +1,1 @@
-sta
+print("hello,world")

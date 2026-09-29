@@ -1,7 +1,5 @@
 suitcase = []
 suitcase.append("sunglasses")
-suitcase.append("hat")
-suitcase.append("shoes")
 
 suitcase.append("bathing suit")
 suitcase.append("T-shirt")

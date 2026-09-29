@@ -1,2 +1,4 @@
-def answer(): -
-    return 42
+def answer(): -> int
+
+
+return 42

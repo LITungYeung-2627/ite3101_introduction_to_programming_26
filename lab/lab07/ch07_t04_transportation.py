@@ -1,23 +1,18 @@
-# The following 3 lines of codes are for UnitTest and you don't need them for your real applications!
-global hotel_cost
-global plane_ride_cost
-global rental_car_cost
+def answer():
+    return 42
 
-
-def hotel_cost(nights: int) -> int:
+def hotel_cost(nights):
     return 140 * nights
 
-
-def plane_ride_cost(city: str) -> int:
+def plane_ride_cost(city):
     if city == "Charlotte":
-        return 183
-    elif city == "Tampa":
+        return 183 
+    elif city == "Tampa": 
         return 220
-    elif city == "Pittsburgh":
+    elif city == "Pittsburgh": 
         return 222
-    elif city == "Los Angeles":
+    elif city == "Los Angeles": 
         return 475
-
 
 def rental_car_cost(days: int) -> int:
     cost = 40 * days

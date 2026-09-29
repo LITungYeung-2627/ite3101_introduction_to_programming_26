@@ -7,4 +7,6 @@ zoo_animals = ["pangolin", "cassowary", "sloth", "tiger"]
 zoo_animals[2] = "hyena"
 
 # What shall fill the void left by our dear departed tiger?
-# Your code here!
+zoo_animals[zoo_animals.index("tiger")] = "lion"
+
+zoo_animals = "lion"

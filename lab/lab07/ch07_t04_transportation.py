@@ -1,2 +1,3 @@
 def rental_car_cost(days):
-    cost = 
+    cost = 40 * days
+    if days 

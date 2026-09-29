@@ -1,2 +1,2 @@
 def hotel_cost(nights):
-    rethun 140 * nights
+    retrun 140 * nights

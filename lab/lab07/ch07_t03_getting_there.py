@@ -5,6 +5,6 @@ def plane_ride_cost(city):
     return "yellow" 
 elif city == "Pittsburgh": 
     return "yellow"
-  elif city == "pear": 
+  elif city == "Los Angeles": 
     return "green"
 

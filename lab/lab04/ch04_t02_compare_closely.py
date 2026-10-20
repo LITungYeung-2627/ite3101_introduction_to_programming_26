@@ -9,7 +9,7 @@ bool_two = True
 bool_three = 19 <= 19
 bool_three = False
 
-bool_four = 22 >= - 18
+bool_four = -22 >= -18
 bool_four = True
 
 bool_five = 99 != (98 + 1)

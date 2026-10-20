@@ -6,6 +6,5 @@ original = input("Enter a word:")
 if len(original) > 0:
     print(original)
 else:
-    pyg = 'ay'
     print("empty")
     

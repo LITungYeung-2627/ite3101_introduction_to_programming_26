@@ -7,10 +7,10 @@ bool_two = 100 == (2 * 50)
 bool_two = True
 
 bool_three = 19 <= 19
-bool_three = None
+bool_three = False
 
 bool_four = 22 >= - 18
 bool_four = None
 
 bool_five = 99 != (98 + 1)
-bool_five = None
+bool_five = False

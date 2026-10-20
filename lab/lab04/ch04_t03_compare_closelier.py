@@ -10,7 +10,7 @@ bool_two = None
 bool_three = 1**2 <= -1
 bool_three = None
 
-# bool_four = bool_four = None
+bool_four = bool_four = None
 
 # 100 != 10**2
 bool_five = None

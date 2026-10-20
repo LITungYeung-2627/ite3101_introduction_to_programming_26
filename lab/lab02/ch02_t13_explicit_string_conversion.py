@@ -1,3 +1,3 @@
 # Turn 3.14 into a string on line 3!
 
-print("I have " + str(3.14) + " coconuts!")
+print("The value of pi is around 3.14")

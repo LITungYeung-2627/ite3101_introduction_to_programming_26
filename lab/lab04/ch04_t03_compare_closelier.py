@@ -1,6 +1,6 @@
 # Assign True or False as appropriate on the lines below!
 
-# (20 - 10) > 15
+bool_one = (20 - 10) > 15
 bool_one = False  # We did this one for you!
 
 # (10 + 17) == 3**16

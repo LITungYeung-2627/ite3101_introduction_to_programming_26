@@ -3,14 +3,14 @@
 # Make me false!
 bool_one = (2 <= 2) and "Alpha" == "Bravo"  # We did this one for you!
 
-# Make me true!
+bool_two = 5 + 5 == 10
 bool_two = True
 
-# Make me false!
+bool_three = 10 != 10
 bool_three = False
 
-# Make me true!
+bool_four = 2 ** 3 >= 8
 bool_four = True
 
-# Make me true!
-bool_five = True
+bool_five = 3 * 3 <= 10
+bool_five = False

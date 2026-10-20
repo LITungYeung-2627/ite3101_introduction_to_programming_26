@@ -12,5 +12,5 @@ bool_three = False
 bool_four = 2 ** 3 >= 8
 bool_four = True
 
-bool_five = 3 * 3 <= 10
-bool_five = False
+bool_five = 3 * 3 <= 40
+bool_five = True

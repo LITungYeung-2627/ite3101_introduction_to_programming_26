@@ -3,7 +3,7 @@
 bool_one = (20 - 10) > 15
 bool_one = False  # We did this one for you!
 
-bool_two = (10 + 17) == 3**16(10 + 17) == 3**16
+bool_two = (10 + 17) == 3**16
 # Remember that ** can be read as 'to the power of'. 3**16 is about 43 million.
 bool_two = None
 

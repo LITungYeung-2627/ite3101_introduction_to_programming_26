@@ -7,7 +7,7 @@ bool_one = True
 bool_two = False
 
 # Make me true!
-bool_three = None
+bool_three = True
 
 # Make me false!
 bool_four = None

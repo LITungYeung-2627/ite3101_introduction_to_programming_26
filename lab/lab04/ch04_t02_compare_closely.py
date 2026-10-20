@@ -4,7 +4,7 @@ bool_one = 17 < 328
 bool_one = True  # We did this one for you!
 
 bool_two = 100 == (2 * 50)
-bool_two = None
+bool_two = True
 
 bool_three = 19 <= 19
 bool_three = None

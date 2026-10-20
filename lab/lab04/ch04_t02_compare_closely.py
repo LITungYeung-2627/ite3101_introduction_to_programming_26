@@ -12,5 +12,5 @@ bool_three = None
 bool_four = 22 >= - 18
 bool_four = None
 
-# Set this to True if 99 != (98 + 1) or to False otherwise.
+bool_five = 99 != (98 + 1)
 bool_five = None

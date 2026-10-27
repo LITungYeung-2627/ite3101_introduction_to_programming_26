@@ -24,3 +24,4 @@ random_row(board)
 random_col(board)
 
 guess_ron = int(input("Guess Row: "))
+guess_col = 

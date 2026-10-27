@@ -3,5 +3,5 @@ for i in range(5):
     board.append(['O'] * 5)
 
 
-def print-board(board_)
+def print_board(board_)
 print(board)

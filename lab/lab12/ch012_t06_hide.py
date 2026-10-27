@@ -11,10 +11,10 @@ def print_board(board_in: List[List[str]]) -> None:
     for row in board_in:
         print(" ".join(row))
 
-def random_row(board_in:):
+def random_row(board_in: List[List[str]]):
     return randint(0,len(board_in) - 1)
 
-def random_col(board_in):
+def random_col(board_in:  List[List[str]]):
     return randint(0,len(board_in[0]) - 1)
 
 random_row(board)

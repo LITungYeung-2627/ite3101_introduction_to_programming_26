@@ -1,5 +1,5 @@
 board = []
-for i range()
+for i range():
     board.apend(["0"]*5)
 
 print(board)

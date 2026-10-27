@@ -23,4 +23,4 @@ def random_col(board_in: List[List[str]]) -> int:
 random_row(board)
 random_col(board)
 
-# Add your code below!
+guess_ron = int(input)

@@ -12,4 +12,4 @@ def print_board(board_in: List[List[str]]) -> None:
         print(" ".join(row))
 
 def random_row(board_in):
-    return randint()
+    return randint(0,len(board_in) )

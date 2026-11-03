@@ -1,5 +1,5 @@
 def is_int(x):
-    if x == 0:
+    if int(x) == x:
         return True
     else:
         return False

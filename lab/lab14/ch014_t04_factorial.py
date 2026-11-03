@@ -1,2 +1,2 @@
 def factorial(x):
-    result
+    result = 1

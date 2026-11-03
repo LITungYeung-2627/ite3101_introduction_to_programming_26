@@ -1,2 +1,2 @@
 def factorial(x:int) -> int:
-    rvalue = 1
+    value = 1

@@ -4,4 +4,4 @@ def anti_vowel(text):
     for char in text:
         if char not in vowels:
             result += char
-        return result
+    return result

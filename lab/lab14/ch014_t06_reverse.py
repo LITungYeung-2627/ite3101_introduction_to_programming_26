@@ -1,0 +1,2 @@
+def revese(text):
+    result = 

@@ -1,2 +1,3 @@
 def revese(text):
-    result = 
+    result = ""
+    for i in range(len(text))

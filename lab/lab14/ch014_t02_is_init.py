@@ -1,5 +1,5 @@
 def is_int(x):
-    if int(x) == x:
+    if x - round(x) == 0 :
         return True
     else:
         return False

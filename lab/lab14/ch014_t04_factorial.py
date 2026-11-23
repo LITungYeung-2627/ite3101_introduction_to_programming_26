@@ -1,6 +1,5 @@
-def factorial(x:int) -> int:
-    value = 1
-    for i in range(1, x+1):
-        value *= i
-
-    return value
+def factorial(x):
+    total = 1
+    for a in range(1,1 + x):
+        total = total * a
+    return total 

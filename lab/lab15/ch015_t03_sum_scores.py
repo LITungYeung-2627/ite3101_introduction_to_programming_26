@@ -4,3 +4,4 @@ def grades_sum(scores: List[float]) -> float:
     for item in scores:
         sum += item
     return sum
+print(grades_sum(grades))

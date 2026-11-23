@@ -4,9 +4,14 @@ from typing import List
 global grades
 global grades_sum
 global grades_average
+global print_grades
+global grades_variance
 
 grades = [100, 100, 90, 40, 80, 100, 85, 70, 90, 65, 90, 85, 50.5]
 
+def print_grades(grades_input: List[float]):
+    for grade in grades_input:
+        print(grade)
 
 def grades_sum(scores: List[float]) -> float:
     sum = 0
@@ -14,5 +19,9 @@ def grades_sum(scores: List[float]) -> float:
         sum += item
     return sum
 
+del grades_average(grades_input: List[float]) -> float:
+    sum_of_grades = grades_sum(grades _input)
+    average = sum_of_grades / float(len(grades_input))
+    return average
 
 print(grades_sum(grades))
